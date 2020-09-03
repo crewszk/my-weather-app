@@ -1,0 +1,6 @@
+/.eslintrc.js
+/.next
+/.vscode
+/assets
+/components
+/node_modules
