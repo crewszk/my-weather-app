@@ -14,3 +14,5 @@ This project covers topics including but not limited to:
 - JSON parsing both local and through the API data
 - Javascript/Typescript class structure and arrow functions
 - Bootstrap and CSS
+
+## A live version will be available on my portfolio website at crewszk.github.io once I complete the website
