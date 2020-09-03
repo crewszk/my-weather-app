@@ -15,4 +15,7 @@ This project covers topics including but not limited to:
 - Javascript/Typescript class structure and arrow functions
 - Bootstrap and CSS
 
+## Future
+I want to develop more web apps in React in the future that uses a more complex component structure than this one, and one project I had in mind was a generic e-commerce website that queries a database and displays items in a neat and dynamic fashion based on the search, as well as updating the search results based on filter criteria. I'm hoping to include a fully working shopping cart, user authentication system, profile + settings for users, a wishlist for users, recommendations based on saved tags from searches and buying practices, and it will all be built in typescript and Next.js React. This will also be uploaded to GitHub in time, I'm in the planning stages as of this commit.
+
 ## A live version will be available on my portfolio website at https://crewszk.github.io once I complete the website
