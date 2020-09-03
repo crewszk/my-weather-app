@@ -15,4 +15,4 @@ This project covers topics including but not limited to:
 - Javascript/Typescript class structure and arrow functions
 - Bootstrap and CSS
 
-## A live version will be available on [My Portfolio Website](https://crewszk.github.io once) I complete the website
+## A live version will be available on my portfolio website at https://crewszk.github.io once I complete the website
